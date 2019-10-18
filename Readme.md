@@ -26,8 +26,6 @@
 
 ## 개인블로그
 
----
-
 [Milkyo CodingStory]
 
 
