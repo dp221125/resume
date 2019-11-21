@@ -24,11 +24,12 @@
 - 기간: 2019. 03 ~ 현재
 - 사용기술: Swift, CoreData
 
+<div>
 <img width="150" src="https://user-images.githubusercontent.com/10572119/69313231-4f09bf80-0c74-11ea-8c05-3eb6e9ee622b.png">
 <img width="150" src="https://user-images.githubusercontent.com/10572119/69313307-87110280-0c74-11ea-9c8c-07432ab46887.png">
 <img width="150" src="https://user-images.githubusercontent.com/10572119/69313315-8f693d80-0c74-11ea-8dfb-9e10bde2bef9.png">
 <img width="150" src="https://user-images.githubusercontent.com/10572119/69313322-92642e00-0c74-11ea-9c5b-c3abe0a10d35.png">
-
+</div>
 
 
 ## 개인블로그
