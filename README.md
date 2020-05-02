@@ -25,7 +25,6 @@
 - 기간: 2019. 03 ~ 2019. 11
 - 사용기술: Swift, CoreData
 - 현재 상태: 서비스 종료
-- [Source]
 
 <div>
 <img width="150" src="https://user-images.githubusercontent.com/10572119/69313231-4f09bf80-0c74-11ea-8c05-3eb6e9ee622b.png">
@@ -48,5 +47,4 @@
 
 [Milkyo CodingStory]: https://milyo-codingstories.tistory.com
 [Github]: https://github.com/dp221125/MKLayout
-[Source]: https://github.com/dp221125/MySocialServiceAgent
 ##### 
