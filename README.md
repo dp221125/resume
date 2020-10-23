@@ -26,7 +26,7 @@
 #### 똑닥
 
 - 회사: Bbros
-- 개발 기술: Swift, MVVM, RxSwift, SnapKit, WkWebView
+- 개발 기술: Swift, MVVM, RxSwift, SnapKit, WkWebView, 네이버지도sdk 등
 - 담당 업무: iOS 앱 개발
 
 
